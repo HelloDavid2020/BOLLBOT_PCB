@@ -209,40 +209,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FWVJDTKE
 
 [Document11]
-DocumentPath=GBOX_V2.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JWCDQMWE
-
-[Document12]
-DocumentPath=GBOX_V2.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
 DocumentPath=GBOX_V2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HDJYPWVW
 
-[Document14]
+[Document12]
 DocumentPath=E:\BaiduYunDownload\SCT1212V101_20150326归档\研发资料\PCB\SCT1212V101_外协加工\SCT1212V101q1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWFXFLIL
 
-[Document15]
+[Document13]
 DocumentPath=STM32F407VGT6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMLFREWD
 
-[Document16]
+[Document14]
 DocumentPath=GBOX_V2.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVTWWKBX
 
-[Document17]
+[Document15]
 DocumentPath=IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,24 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBFOACLG
 
-[Document18]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YKVQNOCT
-
-[Document19]
+[Document16]
 DocumentPath=JY901.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OANVQADF
 
-[Document20]
+[Document17]
 DocumentPath=ESP8266.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEBYSDAI
 
-[Document21]
+[Document18]
 DocumentPath=GBOX_V21.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -393,9 +342,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GPUGLIDV
+DocumentUniqueId=IPUURAGG
 
-[Document22]
+[Document19]
 DocumentPath=..\聚利云GPRS板C15Y034B_V207\聚利云GPRS板C15Y044B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,6 +360,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYLFQNPJ
+
+[Document20]
+DocumentPath=Bollbot_V100.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XSLAUDCB
 
 [Configuration1]
 Name=Default Configuration
