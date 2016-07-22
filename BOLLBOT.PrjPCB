@@ -56,6 +56,23 @@ GenerateClassCluster=0
 DocumentUniqueId=JHNWVKJS
 
 [Document2]
+DocumentPath=E:\GBOX\SCT1212V101_20150326归档\研发资料\PCB\SCT1212V101_外协加工\SCT1212V101q.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OWGWWKXB
+
+[Document3]
 DocumentPath=Schlib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INRWBDYV
 
-[Document3]
+[Document4]
 DocumentPath=JYModulePCB.lib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AVKHTBCV
 
-[Document4]
+[Document5]
 DocumentPath=JYModule.lib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KHMPRWTQ
 
-[Document5]
+[Document6]
 DocumentPath=PcbLib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PINFJEMS
 
-[Document6]
+[Document7]
 DocumentPath=Bollbot_V100.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGNVVLYV
 
-[Document7]
+[Document8]
 DocumentPath=PWM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNKCGODE
 
-[Document8]
+[Document9]
 DocumentPath=CAN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YAMAMSLA
 
-[Document9]
+[Document10]
 DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNUFDNTA
 
-[Document10]
+[Document11]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWVJDTKE
 
-[Document11]
+[Document12]
 DocumentPath=GBOX_V2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HDJYPWVW
 
-[Document12]
+[Document13]
 DocumentPath=E:\BaiduYunDownload\SCT1212V101_20150326归档\研发资料\PCB\SCT1212V101_外协加工\SCT1212V101q1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWFXFLIL
 
-[Document13]
+[Document14]
 DocumentPath=STM32F407VGT6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -259,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMLFREWD
 
-[Document14]
+[Document15]
 DocumentPath=GBOX_V2.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -276,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVTWWKBX
 
-[Document15]
+[Document16]
 DocumentPath=IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBFOACLG
 
-[Document16]
+[Document17]
 DocumentPath=JY901.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OANVQADF
 
-[Document17]
+[Document18]
 DocumentPath=ESP8266.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -327,7 +344,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EEBYSDAI
 
-[Document18]
+[Document19]
 DocumentPath=GBOX_V21.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -344,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IPUURAGG
 
-[Document19]
+[Document20]
 DocumentPath=..\聚利云GPRS板C15Y034B_V207\聚利云GPRS板C15Y044B.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYLFQNPJ
 
-[Document20]
+[Document21]
 DocumentPath=Bollbot_V100.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
