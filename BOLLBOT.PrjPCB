@@ -395,6 +395,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSLAUDCB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BOLLBOT\Design Rule Check - Bollbot_V100.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
