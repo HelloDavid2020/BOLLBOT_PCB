@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : G:\单球机器人控制板\pcb\BOLLBOT_PCB\Bollbot_V100.PcbDoc
 Date     : 2016/7/24
-Time     : 19:45:32
+Time     : 20:32:22
 
 Processing Rule : Clearance Constraint (Gap=15mil) (Disabled)(All),(All)
 Rule Violations :0
@@ -71,4 +71,4 @@ Rule Violations :0
 
 
 Violations Detected : 24
-Time Elapsed        : 00:00:05
+Time Elapsed        : 00:00:06
