@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : G:\单球机器人控制板\pcb\BOLLBOT_PCB\Bollbot_V100.PcbDoc
 Date     : 2016/7/24
-Time     : 19:10:57
+Time     : 19:45:32
 
 Processing Rule : Clearance Constraint (Gap=15mil) (Disabled)(All),(All)
 Rule Violations :0
@@ -31,16 +31,7 @@ Processing Rule : Hole Size Constraint (Min=1mil) (Max=500mil) (All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Area Fill (2782mil,492mil) (3025mil,622mil) on Top Layer And Pad U6-15(3115.079mil,905.945mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net NetC26_2 Between Pad R13-2(2831mil,1964mil) on Top Layer And Pad C26-2(3137mil,2065mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VCC_+3.3V Between Pad U9-10(1814.5mil,1979.638mil) on Top Layer And Pad U9-13(1964.5mil,1979.638mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net VCC_+5V Between Pad P21-4(730mil,530mil) on Multi-Layer And Area Fill (790mil,549mil) (983mil,948mil) on VCC 
-   Violation between Un-Routed Net Constraint: Net VCC_+5V Between Pad P21-3(730mil,430mil) on Multi-Layer And Pad P21-4(730mil,530mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net VCC_+5V Between Pad P21-1(730mil,230mil) on Multi-Layer And Pad P21-2(730mil,330mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net VCC_+5V Between Pad P21-4(730mil,530mil) on Multi-Layer And Pad P21-5(730mil,630mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net VCC_+5V Between Pad +5V-0(248mil,656mil) on Multi-Layer And Pad P21-5(730mil,630mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net VCC_+5V Between Pad P21-2(730mil,330mil) on Multi-Layer And Pad P21-3(730mil,430mil) on Multi-Layer 
-Rule Violations :9
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
    Violation between Short-Circuit Constraint: Between Pad P18-0(4084.645mil,177.164mil) on Multi-Layer And Pad P18-0(3996.063mil,177.165mil) on Multi-Layer Location : [X = 10446.416mil][Y = 9669.408mil]
@@ -79,5 +70,5 @@ Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0
 
 
-Violations Detected : 33
+Violations Detected : 24
 Time Elapsed        : 00:00:05
